@@ -1,0 +1,5 @@
+ZH_TW:
+這張情感強度分佈熱力圖反映了團隊成員的情緒狀態。我們可以看到大多數成員顯示出較低的情感強度值(以較深的紅色表示)。然而,也有一些成員的情感強度處於較高水平(以橙黃色顯示)。作為團隊領導者,我們需要關注這種差異並採取行動,建立互相尊重和理解的團隊氛圍。透過傾聽每個成員的需求、提供支援並促進溝通,我們能夠消除團隊內的緊張情緒,增進凝聚力。總的來說,這張圖像提醒我們要時刻關注團隊內部的情緒動態,並採取積極主動的領導方式來管理和改善現況。
+
+English:
+This sentiment intensity distribution heatmap reflects the emotional state of team members. We can see that most members display relatively low sentiment intensity values (denoted by deeper shades of red). However, there are also some members with higher sentiment intensity levels (shown in orange-yellow). As team leaders, we need to pay attention to this disparity and take action to build a team atmosphere of mutual respect and understanding. By listening to each member's needs, providing support, and facilitating communication, we can alleviate tensions within the team and enhance cohesion. Overall, this image reminds us to constantly monitor the emotional dynamics within the team and take a proactive leadership approach to manage and improve the situation.

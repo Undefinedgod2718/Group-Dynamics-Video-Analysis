@@ -1,0 +1,5 @@
+ZH_TW:
+這張圖清楚呈現了對話段落中情緒的分布。根據資料,正面情緒佔最大比例,這是建立高效團隊合作的基礎。營造正面、友善的氛圍有助於團隊成員之間建立互信、開放交流想法。然而,負面情緒的存在也不可忽視。適度的負面評論有其存在價值,能促使團隊反思、審視現有作法,尋求改進。關鍵是要以建設性態度看待負面意見,而非將其視為人身攻擊。作為領導者,你應鼓勵團隊保持開放態度,正視問題並積極解決。同時也要適時紓緩緊張氣氛,維持團隊正能量。
+
+English:
+This chart clearly shows the distribution of sentiment across dialogue segments. According to the data, positive sentiment takes up the largest proportion, which lays the foundation for effective team collaboration. Fostering a positive and friendly atmosphere helps build trust and open communication of ideas among team members. However, the presence of negative sentiment should not be overlooked. A moderate level of negative feedback serves its purpose by prompting the team to reflect on current practices and seek improvement. The key is to view negative opinions constructively, rather than as personal attacks. As a leader, you should encourage the team to maintain an open attitude, address issues proactively, and find solutions. At the same time, you need to defuse tension when appropriate and maintain the team's positive energy.
